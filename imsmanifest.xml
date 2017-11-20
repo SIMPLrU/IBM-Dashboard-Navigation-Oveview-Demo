@@ -162,6 +162,8 @@
 <file href="assets/toc/tocIcons/searchBtnSelect.png"/> 
 <file href="assets/toc/tocIcons/visited.png"/> 
 <file href="dr/img1.json"/> 
+<file href="dr/img10.json"/> 
+<file href="dr/img11.json"/> 
 <file href="dr/img2.json"/> 
 <file href="dr/img3.json"/> 
 <file href="dr/img4.json"/> 
@@ -169,6 +171,7 @@
 <file href="dr/img6.json"/> 
 <file href="dr/img7.json"/> 
 <file href="dr/img8.json"/> 
+<file href="dr/img9.json"/> 
 <file href="dr/imgmd.json"/> 
 <file href="dr/loading.gif"/> 
 <file href="goodbye.html"/> 
